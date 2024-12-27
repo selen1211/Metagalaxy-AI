@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300.769" height="112.522" viewBox="0 0 300.769 112.522">
+  <defs>
+    <filter id="Line_1" x="0" y="0.592" width="31.5" height="110.781" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#15f2c0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_507" data-name="Path 507" d="M0,0H270.036V80.837H0Z" transform="translate(0)" fill="none" opacity="0.4"/>
+    </clipPath>
+    <filter id="Line_2" x="232.727" y="0.437" width="68.042" height="110.91" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#15f2c0"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_179" x="8.195" y="0" width="282.285" height="112.522" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#15f2c0"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_502" data-name="Group 502" transform="translate(-910.931 -746.398)">
+    <g id="Group_487" data-name="Group 487" transform="translate(1233.689 842.983) rotate(180)">
+      <g transform="matrix(-1, 0, 0, -1, 322.76, 96.59)" filter="url(#Line_1)">
+        <line id="Line_1-2" data-name="Line 1" y1="80.781" transform="translate(15.75 96.37) rotate(180)" fill="none" stroke="#15f2c0" stroke-width="1.5"/>
+      </g>
+      <g id="Mask_Group_162" data-name="Mask Group 162" transform="translate(44.146 0)" opacity="0.35" clip-path="url(#clip-path)">
+        <path id="Path_178" data-name="Path 178" d="M.828.1,37.754,80.932,250.9,80.771V0h33.739Z" transform="translate(3.504 0)"/>
+        <rect id="Rectangle_54" data-name="Rectangle 54" width="272.375" height="80.837" transform="translate(52.698)" fill="none"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 322.76, 96.59)" filter="url(#Line_2)">
+        <line id="Line_2-2" data-name="Line 2" x1="36.677" y1="80.287" transform="translate(285.09 96.04) rotate(180)" fill="none" stroke="#15f2c0" stroke-width="1.5"/>
+      </g>
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="226.836" height="81.084" transform="translate(83.393 0)" fill="none"/>
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="226.836" height="81.082" transform="translate(83.393)" fill="none"/>
+      <g transform="matrix(-1, 0, 0, -1, 322.76, 96.59)" filter="url(#Path_179)">
+        <path id="Path_179-2" data-name="Path 179" d="M34,0,70.926,80.835H284.368V-.187Z" transform="translate(308.31 96.59) rotate(180)" fill="none" stroke="#15f2c0" stroke-width="1.5"/>
+      </g>
+      <path id="Path_177" data-name="Path 177" d="M7.886,17.433,0,0H2.315L10.2,17.433Zm7.874,0L7.874,0h2.315l7.886,17.433Zm7.87,0L15.741,0h2.315l7.892,17.433Zm7.87,0L23.614,0h2.315l7.886,17.433Z" transform="translate(65.565)" fill="#15f2c0"/>
+    </g>
+  </g>
+</svg>
